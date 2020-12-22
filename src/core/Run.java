@@ -14,5 +14,6 @@ public class Run {
 
 		frame.pack();
 		frame.setVisible(true);
+		frame.setResizable(false);
 	}
 }
