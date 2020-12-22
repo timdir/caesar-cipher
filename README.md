@@ -1,6 +1,7 @@
 # caesar-cipher
 
-by timdir
+Author: timdir
+Date: Oct 17 2020
 
 
 ## INTRODUCTION
