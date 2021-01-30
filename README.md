@@ -1,6 +1,6 @@
 # caesar-cipher
 
-Author: timdir
+Author: Tim
 
 Date: Oct 17 2020
 
