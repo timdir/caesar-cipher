@@ -13,8 +13,7 @@ This program is an implementation of a basic caesar cipher.  A caesar cipher is 
 
 ## HOW TO RUN A .JAR FILE
 
-For Windows, Mac and Linux, the following command can be used in the directory where the .jar file is located:
-
+Double clicking on the caesar.jar file should begin the program. Alternatively, you can run the following command in the directory where the .jar file is located:
 java -jar caesar.jar
 
 You may have to install JRE to your machine before you can run a .jar file.
